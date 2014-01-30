@@ -1406,13 +1406,13 @@ i.mce-i-resize {
 .mce-i-fullpage:before {
     content: "\e002"}
 .mce-i-alignleft:before {
-    content: "\e003"}
+    content: "\e603"}
 .mce-i-aligncenter:before {
-    content: "\e004"}
+    content: "\e602"}
 .mce-i-alignright:before {
-    content: "\e005"}
+    content: "\e604"}
 .mce-i-alignjustify:before {
-    content: "\e006"}
+    content: "\e605"}
 .mce-i-cut:before {
     content: "\e007"}
 .mce-i-paste:before {
@@ -1420,27 +1420,27 @@ i.mce-i-resize {
 .mce-i-searchreplace:before {
     content: "\e009"}
 .mce-i-bullist:before {
-    content: "\e00a"}
+    content: "\e600"}
 .mce-i-numlist:before {
-    content: "\e00b"}
+    content: "\e601"}
 .mce-i-indent:before {
-    content: "\e00c"}
+    content: "\e607"}
 .mce-i-outdent:before {
-    content: "\e00d"}
+    content: "\e606"}
 .mce-i-blockquote:before {
     content: "\e00e"}
 .mce-i-undo:before {
-    content: "\e00f"}
+    content: "\66"}
 .mce-i-redo:before {
-    content: "\e010"}
+    content: "\67"}
 .mce-i-link:before {
-    content: "\e011"}
+    content: "\64"}
 .mce-i-unlink:before {
     content: "\e012"}
 .mce-i-anchor:before {
     content: "\e013"}
 .mce-i-image:before {
-    content: "\e014"}
+    content: "\e608"}
 .mce-i-media:before {
     content: "\e015"}
 .mce-i-help:before {
@@ -1486,9 +1486,9 @@ i.mce-i-resize {
 .mce-i-untitled:before {
     content: "\e029"}
 .mce-i-bold:before {
-    content: "\e02a"}
+    content: "\65"}
 .mce-i-italic:before {
-    content: "\e02b"}
+    content: "\68"}
 .mce-i-underline:before {
     content: "\e02c"}
 .mce-i-strikethrough:before {
