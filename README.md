@@ -1,0 +1,4 @@
+tinymce
+=======
+
+TinyMce skin design
