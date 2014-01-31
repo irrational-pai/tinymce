@@ -444,7 +444,9 @@ body .mce-abs-layout-item, .mce-abs-end {
     zoom: 1;
 }
 .mce-tooltip-inner {
-    font-size: 11px;
+    font: 12px "Proxima Nova", Helvetica, Arial;
+    -webkit-font-smoothing: antialiased;
+    text-shadow: 1px 1px 1px rgba(0,0,0,0.004);
     background-color: #000;
     color: #fff;
     max-width: 200px;
