@@ -630,6 +630,7 @@ body .mce-abs-layout-item, .mce-abs-end {
     -webkit-appearance: none;
 }
 .mce-window .mce-btn button{
+    -webkit-font-smoothing: antialiased;
     color: #fff;
 }
 .mce-btn button::-moz-focus-inner {
