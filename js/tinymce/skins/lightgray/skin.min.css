@@ -6,7 +6,7 @@
     vertical-align: top;
     background: transparent;
     text-decoration: none;
-    color: #333;
+    color: #343a3d;
     font-family: "Proxima Nova", "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-size: 14px;
     text-shadow: none;
@@ -624,7 +624,7 @@ body .mce-abs-layout-item, .mce-abs-end {
     line-height: 20px;
     *line-height: 16px;
     cursor: pointer;
-    color: #333;
+    color: #343a3d;
     text-align: center;
     overflow: visible;
     -webkit-appearance: none;
@@ -708,7 +708,7 @@ body .mce-abs-layout-item, .mce-abs-end {
     width: 0;
     height: 0;
     vertical-align: top;
-    border-top: 4px solid #333;
+    border-top: 4px solid #343a3d;
     border-right: 4px solid transparent;
     border-left: 4px solid transparent;
     content: ""}
@@ -716,7 +716,7 @@ body .mce-abs-layout-item, .mce-abs-end {
     border-top-color: #aaa;
 }
 .mce-caret.mce-up {
-    border-bottom: 4px solid #333;
+    border-bottom: 4px solid #343a3d;
     border-top: 0;
 }
 .mce-rtl .mce-btn button {
@@ -773,7 +773,7 @@ i.mce-i-checkbox {
     overflow: hidden;
 }
 .mce-checked i.mce-i-checkbox {
-    color: #333;
+    color: #343a3d;
     font-size: 16px;
     line-height: 16px;
     text-indent: 0;
@@ -923,7 +923,7 @@ i.mce-i-checkbox {
     *display: inline;
     *zoom: 1;
     cursor: pointer;
-    color: #333;
+    color: #343a3d;
 }
 .mce-path-item:hover {
     text-decoration: underline;
@@ -1029,10 +1029,10 @@ i.mce-i-checkbox {
     border: 1px solid #c4c4c4;
 }
 .mce-menubar .mce-menubtn button span {
-    color: #333;
+    color: #343a3d;
 }
 .mce-menubar .mce-caret {
-    border-top-color: #333;
+    border-top-color: #343a3d;
 }
 .mce-menubar .mce-menubtn:hover, .mce-menubar .mce-menubtn.mce-active, .mce-menubar .mce-menubtn:focus {
     border-color: transparent;
@@ -1096,7 +1096,7 @@ i.mce-i-checkbox {
     clear: both;
     font-weight: normal;
     line-height: 20px;
-    color: #333;
+    color: #343a3d;
     white-space: nowrap;
     cursor: pointer;
     line-height: normal;
@@ -1104,7 +1104,7 @@ i.mce-i-checkbox {
     margin-bottom: 1px;
 }
 .mce-menu-item .mce-ico, .mce-menu-item .mce-text {
-    color: #333;
+    color: #343a3d;
 }
 .mce-menu-item.mce-disabled .mce-text, .mce-menu-item.mce-disabled .mce-ico {
     color: #adadad;
@@ -1137,7 +1137,7 @@ i.mce-i-checkbox {
     margin-right: 6px;
     border-top: 4px solid transparent;
     border-bottom: 4px solid transparent;
-    border-left: 4px solid #333;
+    border-left: 4px solid #343a3d;
 }
 .mce-menu-item.mce-selected .mce-caret, .mce-menu-item:focus .mce-caret, .mce-menu-item:hover .mce-caret {
     border-left-color: #fff;
@@ -1159,7 +1159,7 @@ i.mce-i-checkbox {
     border-left: 5px solid #aaa;
 }
 .mce-menu-item-normal.mce-active .mce-text {
-    color: #333;
+    color: #343a3d;
 }
 .mce-menu-item-normal.mce-active:hover .mce-text, .mce-menu-item-normal.mce-active:hover .mce-ico {
     color: #fff;
@@ -1195,7 +1195,7 @@ div.mce-menu .mce-menu-item-sep, .mce-menu-item-sep:hover {
 .mce-rtl .mce-menu-item .mce-caret {
     margin-left: 6px;
     margin-right: 0;
-    border-right: 4px solid #333;
+    border-right: 4px solid #343a3d;
     border-left: 0;
 }
 .mce-rtl .mce-menu-item.mce-selected .mce-caret, .mce-rtl .mce-menu-item:focus .mce-caret, .mce-rtl .mce-menu-item:hover .mce-caret {
@@ -1259,7 +1259,7 @@ div.mce-menu .mce-menu-item-sep, .mce-menu-item-sep:hover {
     cursor: se-resize;
 }
 i.mce-i-resize {
-    color: #333;
+    color: #343a3d;
 }
 .mce-spacer {
     visibility: hidden;
@@ -1347,7 +1347,7 @@ i.mce-i-resize {
     padding: 0 4px 0 4px;
     white-space: pre-wrap;
     *white-space: pre;
-    color: #333;
+    color: #343a3d;
 }
 .mce-textbox:focus, .mce-textbox.mce-focus {
     border-color: #129bc3;
