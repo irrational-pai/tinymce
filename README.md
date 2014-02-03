@@ -4,3 +4,5 @@ TINYMCE Skin Design
 2. Add icon support [DONE]
 3. Add font support [DONE]
 4. Changes to modal [DONE]
+5. UI Consistency [DONE]
+5. Checkbox fix [HELP]
