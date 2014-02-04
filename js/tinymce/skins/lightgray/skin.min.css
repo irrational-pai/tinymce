@@ -588,7 +588,7 @@ body .mce-abs-layout-item, .mce-abs-end {
     background-color: #cacfd2;
 }
 .mce-window .mce-btn:focus{
-    background-color: #a1a6a9;
+    background-color: #fafafa;
 }
 .mce-btn.mce-disabled button, .mce-btn.mce-disabled:hover button {
     cursor: default;
@@ -762,9 +762,9 @@ body .mce-abs-layout-item, .mce-abs-end {
     border-right: 1px solid rgb(222, 222, 222);
 }
 .mce-btn-group .mce-first.mce-last {
-    -webkit-border-radius: 3px;
-    -moz-border-radius: 3px;
-    border-radius: 3px;
+    -webkit-border-radius: 0px;
+    -moz-border-radius: 0px;
+    border-radius: 0px;
 }
 .mce-btn-group .mce-btn.mce-flow-layout-item {
     margin: 0;
